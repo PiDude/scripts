@@ -1,0 +1,8 @@
+export MIBS=+/usr/local/share/snmp/mibs/CL-DEF-MIB
+
+export MIBS=+/usr/local/share/snmp/mibs/DOCS-IF-MIB
+
+export MIBS=+/usr/local/share/snmp/mibs/DOCS-IF3-MIB
+
+export MIBS=+/usr/local/share/snmp/mibs/DOCS-IF31-MIB
+
